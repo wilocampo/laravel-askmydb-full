@@ -1,6 +1,6 @@
 # Ask-My-DB (Laravel App)
 
-Query your database using natural language via LLMs. This Laravel app integrates a local package (`packages/askmydb/laravel-askmydb`) that converts plain-English prompts into safe SQL SELECT statements, executes them against your configured database, and shows the results with optional charts.
+Query your database using natural language via LLMs. This Laravel app integrates a local package (`packages/askmydb/laravel-askmydb`) that converts plain-English prompts into safe SQL SELECT statements, executes them against your configured database, and shows the results with optional charts. If you want the package only and not the full working demo, get it here https://github.com/wilocampo/laravel-askmydb
 
 ## Background and attribution
 - Inspired by the original Python project: [Ask-My-DB (Python)](https://github.com/Msalways/Ask-My-DB)
