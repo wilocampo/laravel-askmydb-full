@@ -7,6 +7,8 @@ Query your database using natural language via LLMs. This Laravel app integrates
 - Sample data: Chinook database (SQLite): [lerocha/chinook-database](https://github.com/lerocha/chinook-database/tree/master)
 - This is a fresh Laravel 12 implementation with OpenAI-compatible and Ollama providers and a simple demo UI.
 
+![Laravel AskMyDB Demo Image](demo.png)
+
 ## Features
 - Natural language to SQL via LLM
 - Safe by default: only SELECTs, with enforced LIMIT
